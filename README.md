@@ -16,5 +16,9 @@
 * На 220 строке замените строку 'token' на API (Подробнее в репозитории - https://github.com/MarshalX/yandex-music-api)
 * Запустите код
 
+# Примеры
+- Пример есть в директории example
+- Так же примеры есть на Youtube канале - https://www.youtube.com/@neirozxc8349/videos
+
 # Лицензия
 Этот проект находится под лицензией MIT License — подробности см. в файле LICENSE.
