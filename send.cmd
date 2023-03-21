@@ -1,0 +1,10 @@
+3.5 drawtext reinit 'text=anxnas,HYPERJAY - BLOOD RAGE';
+10.0 drawtext reinit 'text=Nateki,$werve,HXI - COBRA TATE PHONK';
+16.4 drawtext reinit 'text=Sx1nxwy - Show Me The Will';
+22.8 drawtext reinit 'text=¿ƒÀ»Õ - No Love';
+29.2 drawtext reinit 'text=safetypleace,Nia.wave,DESTROMAKER - Summer Breath';
+35.6 drawtext reinit 'text=Twisted - WORTH NOTHING';
+42.0 drawtext reinit 'text=HXVSAGE,SHIZODANCE - KOBENI';
+48.4 drawtext reinit 'text=Kordhell - MURDER PLOT';
+54.8 drawtext reinit 'text=SAY3AM - JUDAS';
+61.2 drawtext reinit 'text=KUTE - EVERY NIGHT';
